@@ -1,0 +1,5 @@
+@charset "ISO-8859-1";
+body {
+ background: url('../images/background.jpg') no-repeat left top;
+ background-color: #cccccc;
+}
